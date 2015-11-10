@@ -1,0 +1,4 @@
+/home/skangyam/workspace/TableJoin/src/main/java/com/skangyam/hadoop/mapreduce/TableJoin/ReducerJoin.java
+/home/skangyam/workspace/TableJoin/src/main/java/com/skangyam/hadoop/mapreduce/TableJoin/MapperEmp.java
+/home/skangyam/workspace/TableJoin/src/main/java/com/skangyam/hadoop/mapreduce/TableJoin/MapperDept.java
+/home/skangyam/workspace/TableJoin/src/main/java/com/skangyam/hadoop/mapreduce/TableJoin/TableJoinDriver.java

@@ -1,0 +1,4 @@
+com/skangyam/hadoop/mapreduce/TableJoin/MapperDept.class
+com/skangyam/hadoop/mapreduce/TableJoin/TableJoinDriver.class
+com/skangyam/hadoop/mapreduce/TableJoin/ReducerJoin.class
+com/skangyam/hadoop/mapreduce/TableJoin/MapperEmp.class
